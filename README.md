@@ -21,7 +21,7 @@ Due to size constraints, the dataset is hosted externally.
 We provide a Conda environment file to ensure full reproducibility. 
 
 ```bash
-git clone [https://github.com/yourusername/GeoMTL-IGARSS.git](https://github.com/yourusername/GeoMTL-IGARSS.git)
-cd GeoMTL-IGARSS
+git clone [https://github.com/TadieB/GeoMTL.git](https://github.com/TadieB/geoMTL.git)
+cd GeoMTL
 conda env create -f environment.yml
 conda activate prithvi_py311
