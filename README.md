@@ -14,8 +14,7 @@ This repository contains the official PyTorch implementation for our IEEE IGARSS
 Due to size constraints, the dataset is hosted externally. 
 1. Download the Multi-Temporal Crop Dataset from [Insert Link Here].
 2. Extract the dataset into your preferred directory.
-3. The dataset should contain `chips_df.csv`, `test_data.txt`, `training_data.txt`, `validation_data.txt`,`training_chips/`, `validation_chips/`, and the corresponding 
- and  `.txt` caption files.
+3. The dataset should contain `chips_df.csv`, `test_data.txt`, `validation_data.txt`, `training_data.txt`, `training_chips/`, `validation_chips/`, and the corresponding `.txt` caption files.
 
 ## ⚙️ Installation
 
