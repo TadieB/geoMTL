@@ -1,6 +1,6 @@
 # GeoMTL: Multi-Task Learning for Earth Observation
 
-This repository contains the official PyTorch implementation for our IEEE IGARSS presentation on **GeoMTL**. GeoMTL is a multi-task learning architecture designed to perform simultaneous Land Cover Segmentation and Satellite Image Captioning/ Scene reporting using multi-temporal Satellite Data.
+This repository contains the official PyTorch implementation for our IEEE IGARSS presentation on **GeoMTL**. GeoMTL is a multi-task learning architecture designed to perform simultaneous Land Cover Segmentation and Satellite Image Captioning (Scene reporting) using multi-temporal Satellite Data.
 
 ## 🗂️ Repository Structure
 
