@@ -11,10 +11,11 @@ This repository contains the official PyTorch implementation for our IEEE IGARSS
 
 ## 💾 Dataset
 
-Due to size constraints, the dataset is hosted externally. 
+Due to size constraints, the dataset and the checkpoint are hosted externally. 
 1. Download the Multi-Temporal Crop Dataset from [multitemporal crop dataset](https://huggingface.co/datasets/ibm-nasa-geospatial/multi-temporal-crop-classification/tree/main), and corresponding [GeoMTL Text Annotations Dataset](https://huggingface.co/datasets/trust-tad/geomtl-dataset/tree/main).
 2. Extract the dataset into your preferred directory.
 3. The dataset should contain `chips_df.csv`, `test_data.txt`, `validation_data.txt`, `training_data.txt`, `training_chips/`, `validation_chips/`, and the corresponding `.txt` caption files.
+4. Reproduce the results using the [The checkpoint](https://huggingface.co/trust-tad/geomtl-vanilla)
 
 ## ⚙️ Installation
 
