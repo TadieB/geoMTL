@@ -1,0 +1,20 @@
+CHIP ID: chip_176_507
+SAMPLE INDEX: 759
+DECODER MODE: pretrained
+============================================================
+PREDICTED STATS: Developed/Barren: 55.9%, Wetlands: 14.1%, Soybeans: 12.0%, Cotton: 11.5%, Forest: 5.3%, Corn: 0.7%,
+Open Water: 0.3%, Other: 0.2%, Alfalfa: 0.1%.
+
+PROMPT USED: Instruction: Describe this satellite image.
+PREDICTION: The region of the United States is home to a large number (approximately 1,000 km2) of agricultural
+land and approximately 2 million acres in size; however it has been classified as an "agricultural
+area" by UNESCO's International Agricultural Land Use Management System for purposes such that its
+elevation can
+
+REFERENCE: This satellite image captures a diverse agricultural landscape where soybeans and natural vegetation
+are the dominant land cover types, each comprising approximately of the scene, interspersed with
+significant areas of forest. The distinct spectral signatures reveal a patchwork of cultivated
+fields, with soybeans appearing in large, contiguous blocks, while corn and alfalfa occupy smaller,
+more fragmented parcels, exhibiting a clear pattern of crop rotation and land use practices within
+the predominantly rural setting that also includes developed areas and some open water.
+============================================================

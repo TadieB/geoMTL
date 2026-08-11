@@ -1,0 +1,16 @@
+CHIP ID: resnet_lstm_sample_2
+BASELINE MODEL: resnet_lstm
+============================================================
+PREDICTION: This satellite image reveals a mosaic of agricultural landscapes dominated by
+soybeans and corn, interspersed with significant areas of natural vegetation.
+The fields exhibit a patchwork pattern characteristic circular irrigation
+patterns are evident in the scene is characterized by extensive wetlands and
+forested
+
+GROUND TRUTH: This satellite imagery depicts a diverse agricultural landscape dominated by
+wetlands and cotton, with significant portions also dedicated to soybeans and
+natural vegetation. Notably, the image shows a distinct spatial distribution of
+these land cover types, with distinct field boundaries and patterns indicating
+agricultural management practices, while areas of forest and some
+developed/barren land intersperse the cultivated areas.
+============================================================

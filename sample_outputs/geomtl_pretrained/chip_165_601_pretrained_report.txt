@@ -1,0 +1,17 @@
+CHIP ID: chip_165_601
+SAMPLE INDEX: 281
+DECODER MODE: pretrained
+============================================================
+PREDICTED STATS: Developed/Barren: 51.9%, Forest: 25.4%, Corn: 10.3%, Soybeans: 7.3%, Other: 3.0%, Wetlands: 1.3%,
+Alfalfa: 0.4%, Open Water: 0.3%, Natural Vegetation: 0.0%.
+
+PROMPT USED: Instruction: What does this satellite view show?
+PREDICTION: The image of the United States' largest city, Washington, DC is a stunning mosaic. This region
+features an impressive array and diverse landscape that includes several historic buildings
+including many historical structures such as Capitol Hill Church House (18th century), Colonial Era
+Houses in Georgetown Park (1914-1920) ,
+
+REFERENCE: This satellite image reveals a complex agricultural landscape dominated by corn and interspersed
+with significant areas of natural vegetation, forest, and developed/barren land, showcasing a varied
+mosaic of crop cultivation and surrounding natural and built environments.
+============================================================

@@ -1,0 +1,16 @@
+CHIP ID: unet3d_lstm_sample_1
+BASELINE MODEL: unet3d_lstm
+============================================================
+PREDICTION: This satellite image reveals a mosaic of agricultural landscapes dominated by
+soybeans and corn, interspersed with significant areas of natural vegetation.
+The spatial patterns include distinct rectangular fields exhibit a patchwork
+pattern, while the scene is characterized by extensive wetlands and forest cover
+
+GROUND TRUTH: This satellite image reveals a mosaic of agricultural land dominated by natural
+vegetation and winter wheat, interspersed with significant proportions of
+alfalfa and other crops, indicating diverse cultivation practices. The stark
+geometric patterns of cultivated fields contrast with the meandering, vegetated
+riparian corridors, with wetlands occupying lower-lying areas, suggesting a
+landscape shaped by both agricultural management and natural hydrological
+processes.
+============================================================

@@ -1,0 +1,20 @@
+CHIP ID: chip_243_263
+SAMPLE INDEX: 654
+DECODER MODE: pretrained
+============================================================
+PREDICTED STATS: Cotton: 41.4%, Fallow/Idle Cropland: 34.9%, Sorghum: 14.7%, Winter Wheat: 5.3%, Natural Vegetation:
+2.8%, Alfalfa: 0.6%, Corn: 0.4%.
+
+PROMPT USED: Instruction: Write a description of the land cover.
+PREDICTION: The map shows agricultural areas and wetlands, as well in regions with large swaths of farmland that
+are covered by dense forested vegetation such for agriculture purposes. In addition to these
+features is an extensive range of natural landscapes including forests richly populated valleys
+along riverside plains; grasslands dominated by small streams
+
+REFERENCE: This satellite imagery reveals a diverse agricultural landscape where sorghum, comprising of the
+scene, and natural vegetation are the dominant land cover types. Circular irrigation patterns,
+indicative of center-pivot systems, are clearly visible, with varying crop health and stages of
+growth suggested by the differing spectral signatures within these irrigated areas. Winter wheat and
+fallow or idle cropland also represent significant portions, suggesting a rotation or multi-crop
+farming strategy, interspersed with smaller allocations of corn, cotton, and alfalfa.
+============================================================

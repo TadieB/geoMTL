@@ -1,0 +1,19 @@
+CHIP ID: chip_089_217
+SAMPLE INDEX: 114
+DECODER MODE: scratch
+============================================================
+PREDICTED STATS: Natural Vegetation: 78.8%, Alfalfa: 6.8%, Developed/Barren: 6.2%, Winter Wheat: 5.0%, Fallow/Idle
+Cropland: 1.5%, Other: 1.0%, Open Water: 0.5%, Wetlands: 0.2%, Forest: 0.1%.
+
+PROMPT USED: Instruction: Write a description of the land cover.
+PREDICTION: The image reveals a mosaic of agricultural landscape dominated by natural vegetation, with
+significant areas and soybeans, interspersed with significant areas of corn and forest. While corn
+are also present in the scene. The fields exhibit a diverse agricultural practices, suggesting
+distinct spatial patterns pattern is wetlands and developed or idle cro
+
+REFERENCE: This satellite image reveals a mosaic of agricultural land dominated by natural vegetation and
+winter wheat, interspersed with significant proportions of alfalfa and other crops, indicating
+diverse cultivation practices. The stark geometric patterns of cultivated fields contrast with the
+meandering, vegetated riparian corridors, with wetlands occupying lower-lying areas, suggesting a
+landscape shaped by both agricultural management and natural hydrological processes.
+============================================================

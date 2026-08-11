@@ -1,0 +1,19 @@
+CHIP ID: chip_089_217
+SAMPLE INDEX: 114
+DECODER MODE: pretrained
+============================================================
+PREDICTED STATS: Natural Vegetation: 48.6%, Alfalfa: 28.3%, Winter Wheat: 10.6%, Fallow/Idle Cropland: 6.4%,
+Wetlands: 3.2%, Other: 2.0%, Developed/Barren: 0.8%, Open Water: 0.3%.
+
+PROMPT USED: Instruction: Write a description of the land cover.
+PREDICTION: The map shows areas that are most commonly associated with agricultural lands in this region,
+including those located along portions where agriculture is widespread and irrigation systems have
+been developed to support crop growth."The text reads as follows:"This study describes how an area
+known for its high concentrations (i) water resources has resulted
+
+REFERENCE: This satellite image reveals a mosaic of agricultural land dominated by natural vegetation and
+winter wheat, interspersed with significant proportions of alfalfa and other crops, indicating
+diverse cultivation practices. The stark geometric patterns of cultivated fields contrast with the
+meandering, vegetated riparian corridors, with wetlands occupying lower-lying areas, suggesting a
+landscape shaped by both agricultural management and natural hydrological processes.
+============================================================

@@ -1,0 +1,17 @@
+CHIP ID: unet3d_lstm_sample_3
+BASELINE MODEL: unet3d_lstm
+============================================================
+PREDICTION: This satellite image reveals a mosaic of agricultural landscapes dominated by
+soybeans and corn, interspersed with significant areas of natural vegetation.
+The spatial patterns include distinct rectangular fields exhibit a patchwork
+pattern, while the scene is characterized by extensive wetlands and forest cover
+
+GROUND TRUTH: This satellite image captures a diverse agricultural landscape where soybeans
+and natural vegetation are the dominant land cover types, each comprising
+approximately of the scene, interspersed with significant areas of forest. The
+distinct spectral signatures reveal a patchwork of cultivated fields, with
+soybeans appearing in large, contiguous blocks, while corn and alfalfa occupy
+smaller, more fragmented parcels, exhibiting a clear pattern of crop rotation
+and land use practices within the predominantly rural setting that also includes
+developed areas and some open water.
+============================================================

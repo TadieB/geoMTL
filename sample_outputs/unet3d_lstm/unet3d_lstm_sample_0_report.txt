@@ -1,0 +1,17 @@
+CHIP ID: unet3d_lstm_sample_0
+BASELINE MODEL: unet3d_lstm
+============================================================
+PREDICTION: This satellite image reveals a mosaic of agricultural landscapes dominated by
+soybeans and corn, interspersed with significant areas of natural vegetation.
+The spatial patterns include distinct rectangular fields exhibit a patchwork
+pattern, while the scene is characterized by extensive wetlands and forest cover
+
+GROUND TRUTH: This satellite imagery reveals a diverse agricultural landscape where sorghum,
+comprising of the scene, and natural vegetation are the dominant land cover
+types. Circular irrigation patterns, indicative of center-pivot systems, are
+clearly visible, with varying crop health and stages of growth suggested by the
+differing spectral signatures within these irrigated areas. Winter wheat and
+fallow or idle cropland also represent significant portions, suggesting a
+rotation or multi-crop farming strategy, interspersed with smaller allocations
+of corn, cotton, and alfalfa.
+============================================================
