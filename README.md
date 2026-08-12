@@ -6,8 +6,6 @@ Due to size constraints, the dataset and checkpoints are hosted externally.
 2. Extract both into the same directory. It should contain `chips_df.csv`, `training_data.txt`, `validation_data.txt`, `test_data.txt`, `training_chips/`, `validation_chips/`, and the per-chip `.txt` / `.qual.txt` / `.clean.txt` caption files.
 3. Pretrained checkpoints to reproduce paper results: [GeoMTL checkpoints on Hugging Face](https://huggingface.co/trust-tad/geomtl-vanilla).
 
-Note: `geomtl` and the two classical baselines evaluate against `validation_data.txt`; `seg_ablation` evaluates against `test_data.txt` by default (`--test_ids_filename`), matching how each was originally reported.
-
 ## Installation
 
 ```bash
